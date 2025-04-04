@@ -9,6 +9,7 @@ p{
 
 #para2{
     color: red;
+    
 }
 
 .para1{
@@ -19,10 +20,30 @@ p{
     border-color: red; */
 
 
-    border: 1px solid red;
-    padding: 10px;
-   margin: 50px;
+    border: 2px solid red;
+    /* padding: 10px;
+   margin: 50px; */
+   padding-left: 10px;
+   /* background-color:  */
+
+   /*=====> block tag 100% width nahi lega center me ayega */
+
+   text-align: center;  
+
+   border-radius: 4px;
 
 
 }
 
+
+#main{
+    background-color: rgba(26, 255, 255, 0.596);
+}
+
+#main2{
+    
+    width: 300px;
+    height: 300px;
+    border: 1px solid black ;
+    border-radius: 50%;
+}
